@@ -1,1 +1,1 @@
-A readme file has instructed
+README file for the directory
